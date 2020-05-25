@@ -1,4 +1,5 @@
 # ali-oss-upload
+<<<<<<< HEAD
 
 > A Vue.js project
 
@@ -28,3 +29,6 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+阿里云OSS上传，vue结合element-ui上传，支持批量上传，支持上传进度，支持分片上传，支持断点续传...
+>>>>>>> 8115500d7e048373a714d6eba21702cd26a7a105
